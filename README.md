@@ -7,7 +7,7 @@ Data Warehouse, ETL en SSIS, orquestador con SQL Agent, cubo SSAS y dashboards e
 |---|---|
 | Modelado del Data Warehouse | ✅ Terminado |
 | ETL (SSIS) | ✅ Terminado |
-| Orquestador (SQL Agent) | ⬜ Pendiente |
+| Orquestador (SQL Agent) | ✅ Terminado |
 | Cubo (SSAS) | ⬜ Pendiente |
 | Dashboards (Power BI) | ⬜ Pendiente |
 
